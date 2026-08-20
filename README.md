@@ -188,7 +188,7 @@ Arabic and Urdu automatically use right-to-left layout.
 
 ## Source
 
-The source code of this program is available at:
+The original source code of this program is available at:
 
 https://directory.yvisherve.net/egf_station.zip
 
