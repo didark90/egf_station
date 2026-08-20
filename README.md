@@ -190,6 +190,6 @@ Arabic and Urdu automatically use right-to-left layout.
 
 The source code of this program is available at:
 
-https://directory.yvisherve.net/egf_station.zip
+https://github.com/didark90/egf_station
 
 
